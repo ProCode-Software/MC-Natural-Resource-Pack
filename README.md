@@ -6,3 +6,6 @@ This is a Minecraft texture pack that will make blocks much realistic.
 
 > Enjoy! **But, please do not port or steal!**
 > If you see anything suspicious, let me know!
+
+
+**Also check out discussions! Click on 'Discussions' above to show what you built, ask a question, and more!**
